@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Playboy\Downloads\discord-rpc-buttons-master\discord-rpc-buttons-master\src\discord_rpc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Playboy\Downloads\discord-rpc-buttons-master\discord-rpc-buttons-master\src\rpc_connection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Playboy\Downloads\discord-rpc-buttons-master\discord-rpc-buttons-master\src\serialization.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Playboy\Downloads\discord-rpc-buttons-master\discord-rpc-buttons-master\src\connection_win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Playboy\Downloads\discord-rpc-buttons-master\discord-rpc-buttons-master\src\discord_register_win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Playboy\Downloads\discord-rpc-buttons-master\discord-rpc-buttons-master\include\discord_rpc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Playboy\Downloads\discord-rpc-buttons-master\discord-rpc-buttons-master\include\discord_register.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Playboy\Downloads\discord-rpc-buttons-master\discord-rpc-buttons-master\src\rpc_connection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Playboy\Downloads\discord-rpc-buttons-master\discord-rpc-buttons-master\src\serialization.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Playboy\Downloads\discord-rpc-buttons-master\discord-rpc-buttons-master\src\connection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Playboy\Downloads\discord-rpc-buttons-master\discord-rpc-buttons-master\src\backoff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Playboy\Downloads\discord-rpc-buttons-master\discord-rpc-buttons-master\src\msg_queue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Playboy\Downloads\discord-rpc-buttons-master\discord-rpc-buttons-master\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B96A12F2-7D8A-34D8-A339-E0B31EFF3816}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{305639E7-B239-30A9-9537-AB4011CC5E19}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

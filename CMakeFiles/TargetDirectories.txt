@@ -1,0 +1,7 @@
+C:/Users/Playboy/Downloads/discord-rpc-buttons-master/discord-rpc-buttons-master/CMakeFiles/INSTALL.dir
+C:/Users/Playboy/Downloads/discord-rpc-buttons-master/discord-rpc-buttons-master/CMakeFiles/ALL_BUILD.dir
+C:/Users/Playboy/Downloads/discord-rpc-buttons-master/discord-rpc-buttons-master/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Playboy/Downloads/discord-rpc-buttons-master/discord-rpc-buttons-master/src/CMakeFiles/discord-rpc.dir
+C:/Users/Playboy/Downloads/discord-rpc-buttons-master/discord-rpc-buttons-master/src/CMakeFiles/INSTALL.dir
+C:/Users/Playboy/Downloads/discord-rpc-buttons-master/discord-rpc-buttons-master/examples/send-presence/CMakeFiles/send-presence.dir
+C:/Users/Playboy/Downloads/discord-rpc-buttons-master/discord-rpc-buttons-master/examples/send-presence/CMakeFiles/INSTALL.dir

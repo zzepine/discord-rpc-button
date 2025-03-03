@@ -1,0 +1,10 @@
+^C:\USERS\PLAYBOY\DOWNLOADS\DISCORD-RPC-BUTTONS-MASTER\DISCORD-RPC-BUTTONS-MASTER\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Playboy/Downloads/discord-rpc-buttons-master/discord-rpc-buttons-master -BC:/Users/Playboy/Downloads/discord-rpc-buttons-master/discord-rpc-buttons-master --check-stamp-file C:/Users/Playboy/Downloads/discord-rpc-buttons-master/discord-rpc-buttons-master/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

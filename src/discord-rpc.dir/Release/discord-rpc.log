@@ -1,0 +1,13 @@
+﻿  Building Custom Rule C:/Users/Playboy/Downloads/discord-rpc-buttons-master/discord-rpc-buttons-master/src/CMakeLists.txt
+  discord_rpc.cpp
+  rpc_connection.cpp
+  serialization.cpp
+  connection_win.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(7810,5): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+  (compiling source file 'connection_win.cpp')
+  
+  discord_register_win.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(7810,5): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+  (compiling source file 'discord_register_win.cpp')
+  
+  discord-rpc.vcxproj -> C:\Users\Playboy\Downloads\discord-rpc-buttons-master\discord-rpc-buttons-master\src\Release\discord-rpc.lib

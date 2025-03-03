@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Playboy\Downloads\discord-rpc-buttons-master\discord-rpc-buttons-master\CMakeFiles\f0873a79b228087d4e3230332ba04645\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{325BB9AA-6256-39FD-A40B-849E1E5A0AFD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
