@@ -1,3 +1,6 @@
+I took this from somewhere (I dont remember where) and changed a few things
+
+
 # Discord RPC + Buttons
 
 This is a fork of the [discord/discord-rpc](https://github.com/discord/discord-rpc) repository. I just modified a few bits to support buttons with rich presence.
